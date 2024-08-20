@@ -1,4 +1,4 @@
-public class Arrays_equal_Or_Not {
+public class Arrays_equals_Or_Not {
     public static void main(String[] args) {
         int[] arr = {1,2,3,4,5};
         int [] arr2= {1,2,3,4,5};
