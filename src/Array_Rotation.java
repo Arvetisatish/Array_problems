@@ -1,4 +1,4 @@
-public class Main {
+public class Array_Rotation {
     public static void reverseArray(int [] arr, int k ){
        k=k%arr.length;
 
